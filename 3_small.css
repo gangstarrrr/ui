@@ -1,0 +1,17 @@
+html, body, h1{margin: 0;}
+
+#div2{
+    display: none; 
+    height: 300vh;
+}
+#contents{
+    width: 100vw;
+}
+#contents .photo{
+    width: 100vw;
+    height: 50vh;
+}
+#footer{ 
+    position: relative;
+    top: 195vh;
+}
